@@ -1,0 +1,1 @@
+<img src="./Windows Icon.ico" width="64" height="64">
