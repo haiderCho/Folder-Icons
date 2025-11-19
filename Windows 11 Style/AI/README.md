@@ -1,1 +1,1 @@
-![bard.ico](./bard.ico) ![chatgpt.ico](./chatgpt.ico) ![google_palm.ico](./google_palm.ico) ![leonardo.ai.ico](./leonardo.ai.ico) ![midjourney.ico](./midjourney.ico) ![open-ai.ico](./open-ai.ico)
+<img src="./bard.ico" width="64px" height="64px"> <img src="./chatgpt.ico" width="64px" height="64px"> <img src="./google_palm.ico" width="64px" height="64px"> <img src="./leonardo.ai.ico" width="64px" height="64px"> <img src="./midjourney.ico" width="64px" height="64px"> <img src="./open-ai.ico" width="64px" height="64px">
