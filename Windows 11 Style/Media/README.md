@@ -1,1 +1,0 @@
-<img src="./ableton.ico" width="64" height="64"> <img src="./audacity (2).ico" width="64" height="64"> <img src="./audacity-1.ico" width="64" height="64"> <img src="./audacity.ico" width="64" height="64"> <img src="./avermedia.ico" width="64" height="64"> <img src="./media_player_classic.ico" width="64" height="64"> <img src="./vlc.ico" width="64" height="64">

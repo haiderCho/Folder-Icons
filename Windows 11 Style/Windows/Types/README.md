@@ -1,1 +1,0 @@
-<img src="./codingbrowser.ico" width="64" height="64">
