@@ -1,1 +1,1 @@
-<img src="./valve.ico" width="64" height="64">
+<img src="./MiniWorld_Main.ico" width="64" height="64"> <img src="./dosbox_new_01.ico" width="64" height="64"> <img src="./dreamcast.ico" width="64" height="64"> <img src="./retroarch.ico" width="64" height="64"> <img src="./snes.ico" width="64" height="64">

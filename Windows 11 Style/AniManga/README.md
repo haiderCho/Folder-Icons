@@ -1,1 +1,1 @@
-<img src="./dragon-ball.ico" width="64" height="64"> <img src="./shonen-jump.ico" width="64" height="64"> <img src="./spirited-away.ico" width="64" height="64">
+<img src="./death_note.ico" width="64" height="64"> <img src="./dragon-ball.ico" width="64" height="64"> <img src="./shonen-jump.ico" width="64" height="64"> <img src="./spirited-away.ico" width="64" height="64">
